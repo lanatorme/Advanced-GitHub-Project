@@ -1,4 +1,4 @@
 function helloworld() {
-    console.log("Hello GitHub!")
+    console.log("Welcome to advanced GitHub project!")
 }
 helloworld();
